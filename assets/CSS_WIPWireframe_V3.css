@@ -62,6 +62,29 @@ iframe {
 	font-size: 45px;
 }
 
+.autobig {
+	font-family: auto-pro-new,sans-serif;
+	font-weight: 900;
+	font-style: normal;
+	font-size: 62px;
+}
+
+.boldit {
+	font-family: auto-pro-new,sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.bolditalit{
+	font-family: auto-pro-1-new,sans-serif;
+	font-weight: 700;
+	font-style: italic;
+}
+
+.italit{
+
+}
+
 .battlelight {
 	font-family: battleslab, sans-serif;
 	font-weight: 300;
@@ -208,12 +231,17 @@ button {
 }
 
 .dalarge {
-    font-family: auto-pro-small-caps,sans-serif;
-    font-weight: 200;
+		font-family: auto-pro-small-caps,sans-serif;
+		font-weight: 700;
+		font-style: normal;
+    /* font-weight: 200;
     font-style: normal;
-    font-size: 44px;
+    font-size: 44px; */
+		color: #FFF980 !important;
 	position: fixed;
 }
+
+
 
 .da {
 /*
@@ -232,7 +260,7 @@ li {
 
 .yellowpages button {
 	border: none;
-	
+
 }
 
 ol {
@@ -333,7 +361,7 @@ ol {
     font-style: normal;
     font-size: 20px;
     line-height: 24px;
-	
+
 }
 
 .postit-holder {
@@ -355,7 +383,6 @@ ol {
 .introbody {
 	font-size: 30px;
 	letter-spacing: .25px;
-
 }
 
 
@@ -448,5 +475,23 @@ ol {
 .autopro-blackit2 {
 	font-family: auto-pro-2-new,sans-serif;
 	font-weight: 900;
+	font-style: italic;
+}
+
+.autopro-lightit{
+	font-family: auto-pro-1-new, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+.autopro-lightit2{
+	font-family: auto-pro-2-new, sans-serif;
+	font-weight: 300;
+	font-style: italic;
+}
+
+.autopro-lightit3{
+	font-family: auto-pro-3-new, sans-serif;
+	font-weight: 300;
 	font-style: italic;
 }

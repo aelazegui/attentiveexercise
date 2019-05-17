@@ -15,7 +15,7 @@ $('document').ready(function(){
 			$('#da-1A').addClass('hide');
 			$('#da-1B').addClass('appear');
 			$('#input-1').addClass('appear');
-			$('#button-6').removeClass('hide');
+			$('#button-6').removeClass('hide');			
 
 		}
 	  }, 1000);
