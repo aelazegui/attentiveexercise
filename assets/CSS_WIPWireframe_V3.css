@@ -385,6 +385,10 @@ ol {
 	letter-spacing: .25px;
 }
 
+.heightshort {
+	line-height: 20px;
+}
+
 
 /* TYPEFACES */
 @import url("https://use.typekit.net/tlb8laj.css")
